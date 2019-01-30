@@ -30,6 +30,7 @@ p {
 
 #press {
 	margin-bottom: 20px;
+	display: block;
 }
 
 #press img {
