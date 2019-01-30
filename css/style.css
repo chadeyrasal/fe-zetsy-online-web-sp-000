@@ -36,6 +36,10 @@ header a {
 	text-decoration: none;
 }
 
+a {
+	background: transparent;
+}
+
 #about img {
 	border: 5px rgb(152,173,166) solid;
 }
