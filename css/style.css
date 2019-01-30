@@ -22,6 +22,10 @@ body {
 	font-size: 0.8em;
 }
 
+h2 {
+	color: rgb()
+}
+
 p {
 	color: #555;
 	margin-bottom: 20px;
